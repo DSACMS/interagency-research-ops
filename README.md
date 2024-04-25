@@ -6,5 +6,6 @@ Table of Contents
 1. [Advocacy](Advocacy.md)
 2. [Governance](Governance.md)
 3. [Zoom BG](zoom-bg.pdf)
+4. [Zoom_BG1](ZOOM BG TEMPLATE_1.pdf)
 
 
